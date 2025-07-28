@@ -1,6 +1,6 @@
-# Olá, eu sou o Cauã! 👋
+# Olá, meu nome é Cauã! 👋
 
-Sou estudante de **Engenharia de Software** (1º semestre) e apaixonado por tecnologia e desenvolvimento Front-End. Estou sempre buscando aprender coisas novas, compartilhar conhecimento e construir projetos que possam impactar positivamente a vida das pessoas.
+Sou estudante de **Engenharia de Software** (1º semestre) e apaixonado por tecnologia desde criança, atualmente desenvolvo Front-End. Estou sempre buscando aprender coisas novas, compartilhar conhecimento e construir projetos que possam impactar positivamente a vida das pessoas ao meu redor.
 
 ---
 
@@ -14,10 +14,10 @@ Sou estudante de **Engenharia de Software** (1º semestre) e apaixonado por tecn
 
 - 🎓 **Universitário:** Cursando Engenharia de Software
 - 💻 **Área de interesse:** Desenvolvimento Front-End
-- 🌱 Atualmente aprendendo **JavaScript, React, HTML5, CSS3**
+- 🌱 Atualmente aprendendo **React, Node, MySql e Git**
 - ✨ Curioso por UI/UX, acessibilidade e boas práticas de código
 - 📍 Baseado no Brasil
-- ☕ Café & código são meu combustível!
+
 
 ---
 
@@ -36,10 +36,6 @@ Sou estudante de **Engenharia de Software** (1º semestre) e apaixonado por tecn
 
 - [Portfólio Pessoal](https://github.com/cauanostrali/portfolio)  
   Meu site pessoal feito em React com projetos, blog e contato.
-- [Clone do Netflix](https://github.com/cauanostrali/netflix-clone)  
-  Interface inspirada no Netflix usando componentes reutilizáveis.
-- [Calculadora Web Simples](https://github.com/cauanostrali/calculadora-web)  
-  Projeto simples para praticar HTML, CSS e JS.
 
 ---
 
@@ -54,8 +50,8 @@ Sou estudante de **Engenharia de Software** (1º semestre) e apaixonado por tecn
 
 ## 🌎 Vamos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/seu-linkedin)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat-square)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/cauã-cruz-76375b30a)
+[![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat-square)](mailto:cauamartinscruzp@gmail.com)
 [![Meu Portfólio](https://img.shields.io/badge/-Portfólio-222?logo=githubpages&logoColor=fff&style=flat-square)](https://cauanostrali.github.io/portfolio)
 
 ---
@@ -64,16 +60,7 @@ Sou estudante de **Engenharia de Software** (1º semestre) e apaixonado por tecn
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Dev Animation"/>
 </p>
 
----
-
-<details>
-  <summary>⚡ Curiosidades</summary>
-
-  - Gosto de desafios de programação e hackathons
-  - Fã de música lo-fi para programar
-  - Sempre aberto a colaborações e novos aprendizados
-</details>
 
 ---
 
-> _"A melhor maneira de aprender é praticando e compartilhando conhecimento."_ ✨
+> _"I did it my way."_ ✨
