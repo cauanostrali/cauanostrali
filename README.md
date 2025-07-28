@@ -35,7 +35,7 @@ Sou estudante de **Engenharia de Software** (1º semestre) e apaixonado por tecn
 ## 💡 Projetos em Destaque
 
 - [Portfólio Pessoal](https://github.com/cauanostrali/portfolio)  
-  Meu site pessoal feito em React com projetos, blog e contato.
+  Meu site pessoa feito em tailwind com projetos, mais sobre mim e contato.
 
 ---
 
